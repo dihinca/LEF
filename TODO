@@ -23,3 +23,5 @@
 23) Buscar la manera de incluir clases de Pear, de una forma que sea simplemente descomprima y meta en la carpeta de thirdpartys o vendors
 24) Revisar todo el sistema y añadir las excepciones necesarias (si es posible incluso a los thirdparty o vendors)
 25) buscar bugs y con cada etapa redifinir este todo
+26) redefinir los nombres de carpetas y de clases, en algunos llamo LEFA y en otros LEFb
+27) estar constantemente ejecutando los puntos 9, 16, 17, 18, 19, 25
