@@ -54,7 +54,7 @@
             $_SESSION[$varname] = $varvalue;
         }
         
-        public function unset($varname)
+        public function unseting($varname)
         {
             unset($_SESSION[$varname]);
         }
@@ -63,9 +63,12 @@
         {
             $serial = '';
             
-            foreach($_SESSION as $key => $value)
+            if(isset($_SESSION))
             {
-                $serial .= $key.':'.$value;
+                foreach($_SESSION as $key => $value)
+                {
+                    $serial .= $key.':'.$value;
+                }
             }
             
             return $serial;

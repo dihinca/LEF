@@ -1,2 +1,5 @@
+abcd
 <?php
-echo $nombre.' '.$apellido;
+    echo $nombre.' '.$apellido;
+    ?>
+efgh
