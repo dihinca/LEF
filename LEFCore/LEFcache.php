@@ -42,11 +42,12 @@ class LEFcache
         
         public function delete($cachefilename)
         {
-            return unlink($cachefilename);
+            return unlink(dirname(__FILE__).DIRECTORY_SEPARATOR.'..'.DIRECTORY_SEPARATOR.'cache'.DIRECTORY_SEPARATOR.$cachefilename.'.cache');
         }
         
         public function getCache($cachefilename)
         {
+            $cachecontent = '';
             
             $file = fopen(dirname(__FILE__).DIRECTORY_SEPARATOR.'..'.DIRECTORY_SEPARATOR.'cache'.DIRECTORY_SEPARATOR.$cachefilename.'.cache', 'r');
 

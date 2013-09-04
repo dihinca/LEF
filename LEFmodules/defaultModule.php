@@ -4,7 +4,7 @@ class defaultModule extends LEFmodule
 {
     public function actionMain()
     {
-        $this -> nombre = 'Diego';
-        $this -> apellido = 'Hincapie';
+        $busqueda = new Criteria();
+        $resultados = Tabla1Peer::doSelect($busqueda);
     }
 }

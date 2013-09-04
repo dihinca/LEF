@@ -1,2 +1,2 @@
 <?php
-    return array('host' => 'localhost', 'user' => 'root', 'password' => '4n4d31cy');
+return array('orm' => 'Propel', 'orm.adapter' => 'mysql', 'orm.dbname' => 'lef', 'orm.user' => 'lef', 'orm.password' => 'lefpassword', 'orm.host' => 'localhost');

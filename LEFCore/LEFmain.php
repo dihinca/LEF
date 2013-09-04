@@ -46,6 +46,10 @@
         
         public function run()
         {
+            if(LEFconfig::getInstance()->get('databases.orm'))
+            {
+                LEForm::getInstance()->start();
+            }
             if(LEFconfig::getInstance()->get('session.active'))
             {    
                 LEFSession::getInstance()->start();
@@ -76,7 +80,7 @@
                     {
                         LEFcache::getInstance()->delete($cachefilename);
                         $response = new LEFresponse($request);
-                        $responsestr = $response->getreponse();
+                        $responsestr = $response->getResponse();
                         echo $responsestr;
                         LEFcache::getInstance()->create($responsestr);
                     }

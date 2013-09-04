@@ -1,9 +1,9 @@
 1) sistema de logs 
 2) manejo de errores y/o excepciones
-3) integrar la capa del modelo propel (que no sea neceario configurar los archivos de propel, ni tenerlo instalado via pear, que agarre la configuracion de databases.conf.php)
+* 3) integrar la capa del modelo propel (que no sea neceario configurar los archivos de propel, ni tenerlo instalado via pear, que agarre la configuracion de databases.conf.php)
 4) sistema de sessiones
 5) sistema de cookies
-6) el sistema de comandos por consola
+* 6) habilitar la integracion command-line con propel (hay que mejorarla, pero como esta es trabajable)
 7) manejador de eventos
 8) integracion de una libreria de envio de correos
 9) pruebas (NOT TODO, todo el tiempo estaran haciendose)
@@ -25,3 +25,5 @@
 25) buscar bugs y con cada etapa redifinir este todo
 26) redefinir los nombres de carpetas y de clases, en algunos llamo LEFA y en otros LEFb
 27) estar constantemente ejecutando los puntos 9, 16, 17, 18, 19, 25
+28) establecer una barra para debug, como la de symphony
+29) autogeneracion de codigo, como el propel:build-admin de sympony
