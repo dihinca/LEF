@@ -1,0 +1,4 @@
+# Sqlfile -> Database map
+lef.sql=lef
+data.sql=lef
+schema.sql=lef

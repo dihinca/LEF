@@ -17,7 +17,6 @@
                     'LEFhooks',
                     'LEFlibs',
                     'LEFmodel',
-                    'LEFmodules',
                     'LEFthird',
                     'LEFview',
                 );
@@ -46,6 +45,8 @@
         
         public function run()
         {
+            LEFlog::getInstance()->init();
+            
             if(LEFconfig::getInstance()->get('databases.orm'))
             {
                 LEForm::getInstance()->start();
@@ -99,5 +100,18 @@
                 $responsestr = $response->getResponse();
                 echo $responsestr;
             }
+        }
+    }
+    
+    function use_helper($helpername, $filename = __FILE__)
+    {
+        $helper = str_replace('.', DIRECTORY_SEPARATOR, $helpername).'Helper.php';
+        if(file_exists(dirname(__FILE__).DIRECTORY_SEPARATOR.'..'.DIRECTORY_SEPARATOR.'LEFhelpers'.DIRECTORY_SEPARATOR.$helper))
+        {
+            include_once(dirname(__FILE__).DIRECTORY_SEPARATOR.'..'.DIRECTORY_SEPARATOR.'LEFhelpers'.DIRECTORY_SEPARATOR.$helper);
+        }
+        else
+        {
+            LEFlog::getInstance()->log_error(E_WARNING, 'Helper: '.$helpername.' not found in '.dirname(__FILE__).DIRECTORY_SEPARATOR.'..'.DIRECTORY_SEPARATOR.'LEFhelpers'.DIRECTORY_SEPARATOR.$helper, __FILE__, 107);
         }
     }

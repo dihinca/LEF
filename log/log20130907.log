@@ -1,0 +1,225 @@
+
+
+
+Log track for execution code: 522aa2e5bf9bd
+this execution start in 2013-09-07 03:52:05, UTC5209UTC 020139UTC=1378525925UTCC
+
+
+0=>E_NOTICE Undefined variable: nombre, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+1=>E_NOTICE Undefined variable: apellido, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+2=>E_WARNING Missing argument 2 for LEFcache::create(), called in /home/dihinca/public_html/lef/LEFCore/LEFmain.php on line 87 and defined, file: /home/dihinca/public_html/lef/LEFCore/LEFcache.php, line: 64
+
+3=>E_NOTICE Undefined variable: content, file: /home/dihinca/public_html/lef/LEFCore/LEFcache.php, line: 67
+
+
+
+
+Log track for execution code: 522aa2e67708f
+this execution start in 2013-09-07 03:52:06, UTC5209UTC 020139UTC=1378525926UTCC
+
+
+0=>E_NOTICE Undefined variable: getrequest, file: /home/dihinca/public_html/lef/LEFCore/LEFRouting.php, line: 23
+
+1=>E_NOTICE Undefined index: action, file: /home/dihinca/public_html/lef/LEFCore/LEFRequest.php, line: 20
+
+2=>E_ERROR Class 'Module' not found, file: /home/dihinca/public_html/lef/LEFCore/LEFresponse.php, line: 18
+
+
+
+
+Log track for execution code: 522aa2e6971e7
+this execution start in 2013-09-07 03:52:06, UTC5209UTC 020139UTC=1378525926UTCC
+
+
+0=>E_NOTICE Undefined variable: getrequest, file: /home/dihinca/public_html/lef/LEFCore/LEFRouting.php, line: 23
+
+1=>E_NOTICE Undefined index: action, file: /home/dihinca/public_html/lef/LEFCore/LEFRequest.php, line: 20
+
+2=>E_ERROR Class 'Module' not found, file: /home/dihinca/public_html/lef/LEFCore/LEFresponse.php, line: 18
+
+
+
+
+Log track for execution code: 522aa671e5408
+this execution start in 2013-09-07 04:07:13, UTC0709UTC 020139UTC=1378526833UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/LRFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+1=>E_WARNING Helper: Form.labels not found in /home/dihinca/public_html/lef/LEFCore/LRFhelpers/Form/labelsHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+2=>E_NOTICE Undefined variable: nombre, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 5
+
+3=>E_NOTICE Undefined variable: apellido, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 5
+
+
+
+
+Log track for execution code: 522aa67d667a3
+this execution start in 2013-09-07 04:07:25, UTC0709UTC 020139UTC=1378526845UTCC
+
+
+
+
+
+Log track for execution code: 522aa6cdf0d35
+this execution start in 2013-09-07 04:08:45, UTC0809UTC 020139UTC=1378526925UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+1=>E_WARNING Helper: Form.labels not found in /home/dihinca/public_html/lef/LEFCore/LEFhelpers/Form/labelsHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+2=>E_NOTICE Undefined variable: nombre, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 5
+
+3=>E_NOTICE Undefined variable: apellido, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 5
+
+
+
+
+Log track for execution code: 522aa6fd878c2
+this execution start in 2013-09-07 04:09:33, UTC0909UTC 020139UTC=1378526973UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+1=>E_WARNING Helper: Form.labels not found in /home/dihinca/public_html/lef/LEFCore/LEFhelpers/Form/labelsHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+
+
+
+Log track for execution code: 522aa71246c15
+this execution start in 2013-09-07 04:09:54, UTC0909UTC 020139UTC=1378526994UTCC
+
+
+
+
+
+Log track for execution code: 522aa73282219
+this execution start in 2013-09-07 04:10:26, UTC1009UTC 020139UTC=1378527026UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+1=>E_WARNING Helper: Form.labels not found in /home/dihinca/public_html/lef/LEFCore/LEFhelpers/Form/labelsHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+
+
+
+Log track for execution code: 522aa8bf148d2
+this execution start in 2013-09-07 04:17:03, UTC1709UTC 020139UTC=1378527423UTCC
+
+
+0=>E_ERROR Class 'defaultModule' not found, file: /home/dihinca/public_html/lef/LEFCore/LEFresponse.php, line: 18
+
+
+
+
+Log track for execution code: 522aa8f2ab070
+this execution start in 2013-09-07 04:17:54, UTC1709UTC 020139UTC=1378527474UTCC
+
+
+0=>E_ERROR Class 'defaultModule' not found, file: /home/dihinca/public_html/lef/LEFCore/LEFresponse.php, line: 18
+
+
+
+
+Log track for execution code: 522aa99d78c60
+this execution start in 2013-09-07 04:20:45, UTC2009UTC 020139UTC=1378527645UTCC
+
+
+0=>E_WARNING dirname() expects exactly 1 parameter, 0 given, file: /home/dihinca/public_html/lef/LEFCore/LEFresponse.php, line: 15
+
+
+
+
+Log track for execution code: 522aa9bbc15b9
+this execution start in 2013-09-07 04:21:15, UTC2109UTC 020139UTC=1378527675UTCC
+
+
+0=>E_ERROR Class 'defaultModule' not found, file: /home/dihinca/public_html/lef/LEFCore/LEFresponse.php, line: 20
+
+
+
+
+Log track for execution code: 522aa9de70fe4
+this execution start in 2013-09-07 04:21:50, UTC2109UTC 020139UTC=1378527710UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+1=>E_WARNING include_once(/home/dihinca/public_html/lef/LEFCore/../LEFview/views/defaultMain.php): failed to open stream: No such file or directory, file: /home/dihinca/public_html/lef/LEFCore/LEFview.php, line: 32
+
+2=>E_WARNING include_once(): Failed opening '/home/dihinca/public_html/lef/LEFCore/../LEFview/views/defaultMain.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php5/PEAR'), file: /home/dihinca/public_html/lef/LEFCore/LEFview.php, line: 32
+
+
+
+
+Log track for execution code: 522aaac234a6f
+this execution start in 2013-09-07 04:25:38, UTC2509UTC 020139UTC=1378527938UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+1=>E_WARNING include_once(/home/dihinca/public_html/lef/LEFCore/../LEFview/views//defaultMain.php): failed to open stream: No such file or directory, file: /home/dihinca/public_html/lef/LEFCore/LEFview.php, line: 36
+
+2=>E_WARNING include_once(): Failed opening '/home/dihinca/public_html/lef/LEFCore/../LEFview/views//defaultMain.php' for inclusion (include_path='.:/usr/share/php5:/usr/share/php5/PEAR'), file: /home/dihinca/public_html/lef/LEFCore/LEFview.php, line: 36
+
+
+
+
+Log track for execution code: 522aab34b2995
+this execution start in 2013-09-07 04:27:32, UTC2709UTC 020139UTC=1378528052UTCC
+
+
+
+
+
+Log track for execution code: 522aab498b809
+this execution start in 2013-09-07 04:27:53, UTC2709UTC 020139UTC=1378528073UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+
+
+
+Log track for execution code: 522aab5979dc6
+this execution start in 2013-09-07 04:28:09, UTC2809UTC 020139UTC=1378528089UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+
+
+
+Log track for execution code: 522aab825e70e
+this execution start in 2013-09-07 04:28:50, UTC2809UTC 020139UTC=1378528130UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+
+
+
+Log track for execution code: 522aab8a5e842
+this execution start in 2013-09-07 04:28:58, UTC2809UTC 020139UTC=1378528138UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+1=>E_WARNING Helper: Form.labels not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/Form/labelsHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+
+
+
+Log track for execution code: 522aac2fc02cb
+this execution start in 2013-09-07 04:31:43, UTC3109UTC 020139UTC=1378528303UTCC
+
+
+0=>E_WARNING Helper: Url not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/UrlHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php/home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+
+1=>E_WARNING Helper: Form.labels not found in /home/dihinca/public_html/lef/LEFCore/../LEFhelpers/Form/labelsHelper.php, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php/home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 107
+

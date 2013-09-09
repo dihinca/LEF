@@ -1,0 +1,99 @@
+
+
+------------
+Log track for execution code: 
+this execution start in 
+
+
+0=>E_USER_ERROR No se puede dividir por cero, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 51
+
+1=>E_NOTICE Undefined variable: nombre, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+2=>E_NOTICE Undefined variable: apellido, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+3=>E_NOTICE Undefined property: LEFlog::$traceuniqueidcode, file: /home/dihinca/public_html/lef/LEFCore/LEFlog.php, line: 107
+
+4=>E_NOTICE Undefined property: LEFlog::$datetime, file: /home/dihinca/public_html/lef/LEFCore/LEFlog.php, line: 39
+
+
+
+------------
+Log track for execution code: 5227b8290481d
+this execution start in 2013-09-04 22:46:01, UTC4609UTC 020139UTC=1378334761UTCC
+
+
+0=>E_USER_ERROR No se puede dividir por cero, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 51
+
+1=>E_NOTICE Undefined variable: nombre, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+2=>E_NOTICE Undefined variable: apellido, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+
+
+------------
+Log track for execution code: 5227b8a50c70b
+this execution start in 2013-09-04 22:48:05, UTC4809UTC 020139UTC=1378334885UTCC
+
+
+0=>E_USER_ERROR No se puede dividir por cero, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 51
+
+1=>E_NOTICE Undefined variable: nombre, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+2=>E_NOTICE Undefined variable: apellido, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+
+
+------------
+Log track for execution code: 5227b9035c10e
+this execution start in 2013-09-04 22:49:39, UTC4909UTC 020139UTC=1378334979UTCC
+
+
+0=>E_USER_ERROR No se puede dividir por cero, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 51
+
+
+
+------------
+Log track for execution code: 5227b91131118
+this execution start in 2013-09-04 22:49:53, UTC4909UTC 020139UTC=1378334993UTCC
+
+
+0=>E_USER_ERROR No se puede dividir por cero, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 51
+
+
+
+------------
+Log track for execution code: 5227b9206ec47
+this execution start in 2013-09-04 22:50:08, UTC5009UTC 020139UTC=1378335008UTCC
+
+
+0=>E_USER_ERROR No se puede dividir por cero, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 51
+
+
+
+------------
+Log track for execution code: 5227b952468e7
+this execution start in 2013-09-04 22:50:58, UTC5009UTC 020139UTC=1378335058UTCC
+
+
+0=>E_USER_ERROR No se puede dividir por cero, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 51
+
+
+
+------------
+Log track for execution code: 5227b952468e7
+this execution start in 2013-09-04 22:50:58, UTC5009UTC 020139UTC=1378335058UTCC
+
+
+0=>E_USER_ERROR No se puede dividir por cero, file: /home/dihinca/public_html/lef/LEFCore/LEFmain.php, line: 51
+
+
+
+------------
+Log track for execution code: 5227b96c1e410
+this execution start in 2013-09-04 22:51:24, UTC5109UTC 020139UTC=1378335084UTCC
+
+
+0=>E_NOTICE Undefined variable: nombre, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+
+1=>E_NOTICE Undefined variable: apellido, file: /home/dihinca/public_html/lef/LEFview/views/defaultMain.php, line: 3
+

@@ -31,12 +31,12 @@ class LEFmodule
     
     public function getAction()
     {
-        $this -> action;
+        return $this -> action;
     }
     
     public function getModule()
     {
-        $this -> module;
+        return $this -> module;
     }
     
     public function setLayout($layoutname)

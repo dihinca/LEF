@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by PropelDataDumpTask.-->
+<dataset name="all">
+  <Tabla1 Id="1" Campo="a"/>
+  <Tabla1 Id="2" Campo="b"/>
+</dataset>

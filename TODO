@@ -1,15 +1,15 @@
-1) sistema de logs 
-2) manejo de errores y/o excepciones
+* 1) sistema de logs 
+* 2) manejo de errores y/o excepciones
 * 3) integrar la capa del modelo propel (que no sea neceario configurar los archivos de propel, ni tenerlo instalado via pear, que agarre la configuracion de databases.conf.php)
 4) sistema de sessiones
 5) sistema de cookies
-* 6) habilitar la integracion command-line con propel (hay que mejorarla, pero como esta es trabajable)
+* 6) habilitar la integracion command-line con propel (corre solo los comandos que de verdad son usables)
 7) manejador de eventos
 8) integracion de una libreria de envio de correos
 9) pruebas (NOT TODO, todo el tiempo estaran haciendose)
 10) libreria para la validacion de formularios
-11) sistema de helpers
-12) helper para incluir javascripts y css desde las acciones
+* 11) sistema de helpers
+12) helper para incluir imagenes javascripts y css
 13) helper para la creacion de elementos html
 14) helper para la creacion de formularios
 15) helper para definir desde la accion cual va a ser el layout, o decir que no va a usar layout
@@ -17,7 +17,7 @@
 17) añadir el tipo de parametro a cada llamada de cada metodo del Core (implicacion de tipo)
 18) revisar el codigo y colocar las excepciones y controles de errores donde debe ir
 19) documentacion de codigo
-20) añadir un autoload para las librerias (los vendor o thirdparty, tienen una estructura o forma de cargar los archivos que posiblemente no sea compatible con LEF)
+* 20) añadir un autoload para las librerias (los vendor o thirdparty, tienen una estructura o forma de cargar los archivos que posiblemente no sea compatible con LEF) Solucion: crear en la carpeta LEFlibs una clase con el nombre del third, esta clase debe incluir los archivos necesarios para que el third o vendor funcione
 21) sistema para emular los partials y components de symfony (pero en LEF, serian clases reales, no serian las falsas)
 22) añadir la posibilidad de cachear no la pagina entera, sino fragmentos (sospecho que sera dificil, posiblemente se vaya para la version n)
 23) Buscar la manera de incluir clases de Pear, de una forma que sea simplemente descomprima y meta en la carpeta de thirdpartys o vendors
@@ -27,3 +27,9 @@
 27) estar constantemente ejecutando los puntos 9, 16, 17, 18, 19, 25
 28) establecer una barra para debug, como la de symphony
 29) autogeneracion de codigo, como el propel:build-admin de sympony
+30) i18n, i10n systems
+31) creacion de las excepciones
+32) wizard para el install
+33) plantilla para las excepciones
+34) bloquear el acceso directo a los archivos .php (colocar un index.php en cada carpeta, que lo muestre en blanco, y un metodo como el de joomla de verificar si se cargo el main)
+35) añadir configuracion de timezone

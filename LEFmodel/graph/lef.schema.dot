@@ -1,0 +1,3 @@
+digraph G {
+"tabla1" [label="{<table>tabla1|<cols>id (INTEGER) [PK]\lcampo (VARCHAR)\l}", shape=record];
+}

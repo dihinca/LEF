@@ -1,2 +1,2 @@
 <?php
-return array('active' => true);
+return array('active' => false);

@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+php LEFthird/propel/buildproperties.php
+
+"LEFthird/phing/bin/phing" -f "LEFthird/propel/generator/build.xml" -Dusing.propel-gen=true -Dproject.dir=LEFconfig/propel $*
+
+php LEFthird/propel/deleteproperties.php
